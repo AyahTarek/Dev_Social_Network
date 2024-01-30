@@ -1,0 +1,6 @@
+{
+  "mongoURI" : "mongodb+srv://ayahtarekessam99:znf9A_ii@devconnector.irspaus.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "531ed39a2b843f273eda",
+  "githubClientSecret": "cd1ea5c8b64f772954b1d0fb208e960a10533e1f"
+}
